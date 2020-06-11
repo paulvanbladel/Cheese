@@ -6,6 +6,4 @@ image = "/uploads/cheddar.jpg"
 name = "Farmhouse Cheddar"
 price = 4.95
 product_url = "https://cheese.opinionatedapps.com"
-url = "/"
-
 +++
