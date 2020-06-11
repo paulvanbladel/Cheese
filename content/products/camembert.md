@@ -5,7 +5,7 @@ id = "CAMEMBERT"
 image = "/uploads/camembert.jpg"
 name = "Camembert"
 price = 9.95
-product_url = "cheese.opinionatedapps.com"
+product_url = "https://cheese.opinionatedapps.com"
 url = "/"
 
 +++
