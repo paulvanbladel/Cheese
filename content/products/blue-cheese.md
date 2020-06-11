@@ -5,7 +5,7 @@ id = "BLUE_CHEESE"
 image = "/uploads/blue.jpg"
 name = "Blue cheese"
 price = 12.95
-product_url = "http://localhost:1313"
+product_url = "cheese.opinionatedapps.com"
 url = "/"
 
 +++
