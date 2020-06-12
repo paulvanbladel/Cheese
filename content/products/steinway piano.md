@@ -5,5 +5,5 @@ id = "STEINWAY"
 image = "/uploads/steinway.jpg"
 name = "Steinway"
 price = 77299.95
-product_url = "https://cheese.opinionatedapps.com"
+product_url = "/"
 +++

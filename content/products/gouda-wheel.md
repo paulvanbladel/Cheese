@@ -5,5 +5,5 @@ id = "GOUDA_WHEEL"
 image = "/uploads/gouda.jpg"
 name = "Gouda Wheel"
 price = 299.95
-product_url = "https://cheese.opinionatedapps.com"
+product_url = "/"
 +++
