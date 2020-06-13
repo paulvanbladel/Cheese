@@ -23,3 +23,5 @@ fields:
 - type: text
   name: product_url
   label: product_url
+pages:
+- content/products/testje.md
