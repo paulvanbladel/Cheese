@@ -24,16 +24,14 @@ fields:
   name: product_url
   label: product_url
 - name: related_products
-  type: select
-  default: []
+  type: list
   config:
-    required: false
-    options: []
+    use_select: true
+    min: 
+    max: 
     source:
       type: pages
       section: products
-      file: 
-      path: 
-  label: Related Products
+  label: related products
 pages:
 - content/products/testje.md
