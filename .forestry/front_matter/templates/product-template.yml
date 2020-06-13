@@ -34,5 +34,6 @@ fields:
       section: products
   label: related products
 pages:
+- content/products/camembert.md
 - content/products/test2.md
 - content/products/testje.md
