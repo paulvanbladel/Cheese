@@ -23,5 +23,17 @@ fields:
 - type: text
   name: product_url
   label: product_url
+- name: related_products
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: products
+      file: 
+      path: 
+  label: Related Products
 pages:
 - content/products/testje.md
